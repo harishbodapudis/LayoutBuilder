@@ -1,0 +1,89 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin: 2px auto;
+}
+
+.left-box {
+  width: 250px;
+  background-color: #e2e8f0;
+  height: 54vh;
+  color: #475569;
+  padding: 10px;
+  margin-right: 2px;
+}
+.content-box {
+  background-color: #f1f5f9;
+  height: 54vh;
+  width: 100%;
+  color: #475569;
+  padding: 0px 20px;
+  font-size: 14px;
+  margin-right: 2px;
+}
+.right-box {
+  background-color: #e2e8f0;
+  height: 54vh;
+  width: 250px;
+  color: #475569;
+}
+.leftNav-content {
+  list-style-type: none;
+  margin: 0px;
+  padding: 10px;
+}
+
+.leftNav-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.leftNav-item {
+  margin: 5px 0px;
+}
+
+.right-navbar-box-one {
+  border: 1px solid #475569;
+  width: 80%;
+  margin: 10px auto;
+  height: 100px;
+  place-items: center;
+  display: grid;
+  place-items: center;
+}
+.right-navbar-box-two {
+  border: 1px solid #475569;
+  width: 80%;
+  margin: 10px auto;
+  height: 100px;
+  display: grid;
+  place-items: center;
+}
+.box-title-one {
+  font-size: 14px;
+  display: grid;
+  place-items: center;
+}
+.box-title-two {
+  font-size: 14px;
+  display: grid;
+  place-items: center;
+}
+.right-navbar-title {
+  font-size: 16px;
+  width: 90%;
+  margin: 14px auto;
+}
+.content-title {
+  font-size: 18px;
+  width: 70%;
+  margin: 20px auto;
+}
+.content-para {
+  font-size: 18px;
+  width: 70%;
+  margin: 20px auto;
+}

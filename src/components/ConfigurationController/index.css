@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.configuration-container {
+  background-color: #475569;
+  color: #ffffff;
+  padding: 5px 30px;
+}
+.checkbox-box {
+  margin: 10px 0px;
+}
